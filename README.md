@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Edward 👋
 
 <!--
 **wpted/wpted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +11,14 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... 
 - ⚡ Fun fact: ...
 -->
+👉 Loves tea, music or anyting related to tech.
+
+
+
+😄 I'm currently learning Go, working my way through the Tech world
+
+Fun Facts: 
+Once have a podcast, now a blog. Will resume whenever feeling like it
