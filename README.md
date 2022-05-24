@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ...
 -->
-👉 Loves tea, music or anyting related to tech.
+👉 Loves tea, music or anything related to tech.
 
 
 
