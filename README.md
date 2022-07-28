@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 😄 I'm currently learning Go, working my way through the Tech world
 
-Fun Facts: 
+Fun Fact: 
 Once have a podcast, now a blog. Will resume whenever feels like it
