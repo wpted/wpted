@@ -1,5 +1,6 @@
 ### Hi, I'm Edward 👋
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Backowl)
 <!--
 **wpted/wpted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,4 +25,4 @@ Fun Fact:
 Once have a podcast, now a blog. Will resume whenever feels like it
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Backowl)
+
