@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 
 Fun Fact: 
 Once have a podcast, now a blog. Will resume whenever feels like it
+
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Backowl)
