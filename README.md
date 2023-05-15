@@ -1,4 +1,4 @@
-### Hi, I'm Edward 👋
+### Hi traveller, I'm Edward 👋
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Backowl)
 <!--
