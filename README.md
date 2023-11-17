@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 
 
 
-😄 I'm currently learning Go, working my way through the Tech world
-
-Fun Fact: 
-Once have a podcast, now a blog. Will resume whenever feels like it
+[![Edward's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=wpted&hide=html,scss,stylus,blade,jupyter%20notebook,css,batchfile&theme=algolia&show_icons=true)](https://github.com/wpted)
 
 
 
