@@ -11,5 +11,5 @@
 - [x] Build Your Own Redis Server
 - [ ] Build Your Own Load Balancer
 
-## The more the merrier
+## The more the merrier 🦉🦉🦉
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Backowl)
