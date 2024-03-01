@@ -11,5 +11,8 @@
 - [x] Build Your Own Redis Server
 - [ ] Build Your Own Load Balancer
 
+## Reading List
+![8%](https://progress-bar.dev/8?title=Designing_Data_Intensive_Application)
+
 ## The more the merrier 🦉🦉🦉
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Backowl)
