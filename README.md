@@ -20,7 +20,7 @@
 <br>
 ![48%](https://progress-bar.dev/48?title=Introduction_To_Algorithms)
 <br>
-![1.4%](https://progress-bar.dev/1.4?title=Graphic_Programming_Black_Book)
+![2%](https://progress-bar.dev/2?title=Graphic_Programming_Black_Book)
 <br>
 
 
