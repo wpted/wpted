@@ -11,7 +11,7 @@
 - [x] Build Your Own Redis Server
 - [ ] Build Your Own Load Balancer
 
-## Reading List
+## Currently Reading
 ![8%](https://progress-bar.dev/8?title=Designing_Data_Intensive_Application)
 <br>
 ![30%](https://progress-bar.dev/30?title=Concurrency_In_Go)
