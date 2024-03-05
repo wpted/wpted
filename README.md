@@ -22,7 +22,7 @@
 <br>
 <kbd>2/70</kbd> ![2%](https://progress-bar.dev/2?title=Graphic_Programming_Black_Book)
 <br>
-<kbd>3/12</kbd> ![17%](https://progress-bar.dev/17?title=Assembly_Language_Step_By_Step) 
+<kbd>7/12</kbd> ![37%](https://progress-bar.dev/37?title=Assembly_Language_Step_By_Step) 
 
 
 
