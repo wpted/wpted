@@ -9,7 +9,7 @@
 
 - [x] Build Your Own Calculator
 - [x] Build Your Own Redis Server
-- [ ] Build Your Own Load Balancer
+- [x] Build Your Own Load Balancer
 
 ## Currently Reading
 <kbd>2/12</kbd>![9%](https://progress-bar.dev/9?title=Designing_Data_Intensive_Application)
