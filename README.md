@@ -12,7 +12,7 @@
 - [x] Build Your Own Load Balancer
 
 ## Currently Reading
-<kbd>2/12</kbd>![9%](https://progress-bar.dev/9?title=Designing_Data_Intensive_Application)
+<kbd>2/12</kbd>![11%](https://progress-bar.dev/11?title=Designing_Data_Intensive_Application)
 <br>
 ![30%](https://progress-bar.dev/30?title=Concurrency_In_Go)
 <br>
