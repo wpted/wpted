@@ -11,24 +11,6 @@
 - [x] Build Your Own Redis Server
 - [x] Build Your Own Load Balancer
 
-## Currently Reading
-<kbd>2/12</kbd>![11%](https://progress-bar.dev/11?title=Designing_Data_Intensive_Application)
-<br>
-![30%](https://progress-bar.dev/30?title=Concurrency_In_Go)
-<br>
-![24%](https://progress-bar.dev/24?title=Go_Design_Pattern)
-<br>
-![48%](https://progress-bar.dev/48?title=Introduction_To_Algorithms)
-<br>
-<kbd>2/70</kbd> ![2%](https://progress-bar.dev/2?title=Graphic_Programming_Black_Book)
-<br>
-<kbd>8/12</kbd> ![49%](https://progress-bar.dev/49?title=Assembly_Language_Step_By_Step) 
-
-
-
-
-
-
 
 ## The more the merrier 🦉🦉🦉
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Backowl)
