@@ -3,7 +3,7 @@
 👉 Loves tea, music or anything related to tech.
 
 ## Gopher 
-[![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=wpted)](https://github.com/wpted/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wpted)](https://github.com/wpted/github-readme-stats)
 
 ## Currently working on the curated list 
 
